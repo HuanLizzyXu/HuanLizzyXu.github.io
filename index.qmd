@@ -4,7 +4,7 @@ image: Huan.jpg
 about:
   template: jolla
   image-shape: rounded
-  image-width: 16em
+  image-width: 14em
   links:
     - text: Email
       icon: envelope
@@ -18,5 +18,8 @@ about:
 ---
 
 :::{#huan-heading}
-...
+Aspiring to be a physician-scientist, I am currently a postdoctoral researcher at UCLA in [The Geschwind lab](https://geschwindlab.dgsom.ucla.edu/pages/pi).
+
+I'm passionate about using systems genomics, computational biology and molecular neuroscience approches to understand neurobiological mechanisms in health and diseases.
+
 :::
