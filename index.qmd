@@ -1,0 +1,22 @@
+---
+title: "Huan Xu, MD, PhD"
+image: Huan.jpg
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:huan816723@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/HuanLizzyXu
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=hczWi1IAAAAJ&hl=en
+---
+
+:::{#huan-heading}
+...
+:::

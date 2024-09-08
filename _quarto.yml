@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - ./Presentations/*.pdf
+
+website:
+  title: "Huan Xu, MD, PhD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - presentations.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
